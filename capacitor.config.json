@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "PlaningProject",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}
